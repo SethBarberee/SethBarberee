@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PMD Decompilation, test programs, and python scripting
-- 💬 Ask me about: my job at OpenFive, PMD-Red Decompilation progress
+- 💬 Ask me about: my job at Alphawave Semi, PMD-Red Decompilation progress
 - 📫 How to reach me: seth.barberee@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a first degree black belt in Taekwondo
